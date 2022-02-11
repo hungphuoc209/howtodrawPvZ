@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">LearnToDrawPvZ</string>
+    <string name="content_des">contentDescription</string>
+    <string name="step_test">1/11</string>
+    <string name="_11_steps">11 steps</string>
+    <string name="level">Level:</string>
+    //name plant
+    <string name="n01">Peashooter</string>
+    <string name="n02">Twin Sunflower</string>
+    <string name="n03">Mummy Zombie</string>
+    <string name="n04">Iceberg Lettuce</string>
+    <string name="n05">Kernel-Pult</string>
+    <string name="n06">Logo</string>
+    <string name="n07">Coconut Cannon</string>
+    <string name="n08">Chili Bean</string>
+    <string name="n09">Bonk Choy</string>
+    <string name="n10">Ra Zombie</string>
+    <string name="n11">Lightning Reed</string>
+    <string name="n12">Bloomerang</string>
+    <string name="n13">Cabbage-Pult</string>
+    <string name="n14">Pirate Zombie</string>
+    <string name="n15">Pae Pod</string>
+    <string name="n16">Snapdragon</string>
+    <string name="n17">Cowboy Zombie</string>
+    <string name="n18">Poncho Zombie</string>
+    <string name="n19">Captaine Zombie</string>
+    <string name="n20">Crazy Dave</string>
+    <string name="n21">Wall-nut</string>
+    <string name="n22">Snow Pea</string>
+    <string name="n23">Squash</string>
+    <string name="n24">Jalapeno</string>
+    <string name="n25">Potato Mine</string>
+    <string name="n26">Spikerock</string>
+    <string name="n27">Chomper</string>
+    <string name="n28">Frijuelle</string>
+
+    <!--test ads-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_instertitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_id" translatable="false">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="admob_reward_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+
+    <!--real ads-->
+<!--    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_instertitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="admob_native_id" translatable="false">ca-app-pub-3940256099942544/1044960115</string>-->
+<!--    <string name="admob_reward_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>-->
+<!--    <string name="admob_app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>-->
+
+    <string name="ok">OK</string>
+    <string name="privacy_policy_url">https://www.privacypolicytemplate.net/live.php?token=sz1p79vJa2vOiYqBVBEvbIdKmggZcwm2</string>
+    <string name="step_format" formatted="false">%d steps</string>
+    <string name="step_format_per" formatted="false">%d/%d</string>
+    <string name="name">Name:</string><string name="review_completed">Review completed</string>
+</resources>

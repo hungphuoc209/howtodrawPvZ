@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558103350500",
+    "project_id": "learn-to-draw-pvz",
+    "storage_bucket": "learn-to-draw-pvz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558103350500:android:cddc281af567748b2330f1",
+        "android_client_info": {
+          "package_name": "com.dm.learntodraw.pvz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558103350500-ba508vtqgnvlesiv6jh683t0pi77gies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCac-AT8K3pJ83n-JIzEb0vJB0WMHidyIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558103350500-ba508vtqgnvlesiv6jh683t0pi77gies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
